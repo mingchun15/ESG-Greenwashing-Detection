@@ -34,7 +34,7 @@ The framework integrates semantic (LLM-based), lexical, and financial features t
 ![Llama SHAP](./plots/M6 Semantic + Lexical + Financial_shap_summary_llama(3).png)
 
 ### Prompt Sensitivity
-![Prompt](ESG Greenwashing Detection with LLM + ML/prompt_sensitivity_vs_discrimination_georgia.jpg)
+![Prompt](ESG Greenwashing Detection with LLM + ML/plots/prompt_sensitivity_vs_discrimination_georgia.jpg)
 
 ---
 
